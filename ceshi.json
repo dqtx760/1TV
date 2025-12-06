@@ -10,7 +10,34 @@
       "api": "csp_TTian",
       "playerType": 2,
       "ext": "7lj763gg0939791h1l3888jig44gi291li",
-      "editing": false
+      "editing": true,
+      "_originalData": {
+        "key": "天天",
+        "name": "电视喵(tv.dqtx.cc)",
+        "type": 3,
+        "api": "csp_TTian",
+        "playerType": 2,
+        "ext": "7lj763gg0939791h1l3888jig44gi291li",
+        "editing": true,
+        "_originalData": {
+          "key": "天天",
+          "name": "电视喵(tv.dqtx.cc)",
+          "type": 3,
+          "api": "csp_TTian",
+          "playerType": 2,
+          "ext": "7lj763gg0939791h1l3888jig44gi291li",
+          "editing": true,
+          "_originalData": {
+            "key": "天天",
+            "name": "电视喵(tv.dqtx.cc)",
+            "type": 3,
+            "api": "csp_TTian",
+            "playerType": 2,
+            "ext": "7lj763gg0939791h1l3888jig44gi291li",
+            "editing": true
+          }
+        }
+      }
     },
     {
       "key": "追剧",
@@ -37,44 +64,12 @@
       "ext": "7lj763gg402i79425533i486k8459ljik4g1jg41k6gi0h2850784gj2lk207j5k2ji745gl8478h6h3321l84j2j7lh2li1g0562546ligk98gi74"
     },
     {
-      "key": "huomaoys",
-      "name": "火猫┃App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "7lj763gg402i7942463j9j9jh14i9i96llk6ih56ij87382i1i4214lkk502725l2l9j6j9jhh0gh1j06j3ig4gjg5k00jikg1547l6kik9193jk72j31ikg41lk5113ggg5"
-    },
-    {
       "key": "主角",
       "name": "主角┃APP",
       "type": 3,
       "api": "csp_Muou",
       "playerType": 2,
       "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
-    },
-    {
-      "key": "柚子",
-      "name": "柚子┃APP",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "7lj763gg402i7942422493i0g712948hk8k7i75hj59g6l73060l0lkhkj0h0g5i48i208k1il0gi4j26k49kkj1g7k049h5g3342108h3kg9igg73j16kg13kh11k10g8"
-    },
-    {
-      "key": "永夜",
-      "name": "永夜┃App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "7lj763gg0939790i413gjh9kk011jijiggll990k9li73l224k770ik0j10l502j2j9l798lhj778hh33g018h94k5j400kij3567j7gji97kkk4118421g03lll"
-    },
-    {
-      "key": "星河",
-      "name": "星河┃App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "7lj763gg402i7942463j9j9jgg568780llhk844hi59920376g4402k6j3314g3g30876g828i65g6982j25h89gk3j63kl6i44h6569j1g6lii93gj66jg1"
     },
     {
       "key": "巧技三",
@@ -86,28 +81,12 @@
       "editing": false
     },
     {
-      "key": "优质",
-      "name": "优质┃App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "7lj763gg402i794252728181hk0980i2lhl1j905ikjh3170584h43l8gh0l090242905hk1i01i8g80220khi93llh21hk1l43g2609hikh92k02jji32g07lll4k18l8g0ill1ki272j208349655gi1k71g652gh3gj6374li9kg3jj977gl13g"
-    },
-    {
       "key": "客星",
       "name": "客星┃App",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
       "ext": "7lj763gg0939790i413gi486k509jgi3ggk6j244j6j36j76041707h0lk124l0l0h867j83h576h3j66h4lk89lh5lh1jl3l170647kj09lklji74j56lg673li1h16"
-    },
-    {
-      "key": "蝴蝶",
-      "name": "蝴蝶┃App",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "7lj763gg0939791h1l239kj0g853i291lik7jk45j8i66j6l46590lkli918523h02826lh29i74948i3116h18kkgii17kki579606ik1h6kjlh2k8l36ll62h11k10g8"
     },
     {
       "key": "柠檬",
@@ -118,27 +97,6 @@
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
-      "key": "快看",
-      "name": "快看┃直连",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_CZSPP",
-      "name": "厂长┃直连",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "7lj763gg402i7942463j9j9jh346968hg5ll845ki38473"
-    },
-    {
       "key": "csp_sbb",
       "name": "布布┃直连",
       "type": 3,
@@ -147,7 +105,30 @@
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "7lj763gg402i7942463j9j9jg3498k93lhggih54828g332i1j"
+      "ext": "7lj763gg402i7942463j9j9jg3498k93lhggih54828g332i1j",
+      "editing": false
+    },
+    {
+      "name": "青檬┃APP",
+      "type": 0,
+      "api": "https://jihulab.com/ysxsbk/xduo/-/raw/main/libs/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "",
+      "categories": [],
+      "editing": false
+    },
+    {
+      "name": "臻彩┃APP",
+      "type": 0,
+      "api": "http://150.158.112.123/js/dr/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "",
+      "categories": [],
+      "editing": false
     }
   ],
   "lives": [
