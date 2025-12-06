@@ -40,38 +40,6 @@
       }
     },
     {
-      "key": "追剧",
-      "name": "追剧┃App",
-      "type": 3,
-      "api": "csp_TTian",
-      "playerType": 2,
-      "ext": "7lj763gg0939791h1l2681i6g94li291li"
-    },
-    {
-      "key": "剧评",
-      "name": "剧评┃App",
-      "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 1,
-      "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
-    },
-    {
-      "key": "kafeiys",
-      "name": "狂风┃APP",
-      "type": 3,
-      "api": "csp_Xdai",
-      "playerType": 2,
-      "ext": "7lj763gg402i79425533i486k8459ljik4g1jg41k6gi0h2850784gj2lk207j5k2ji745gl8478h6h3321l84j2j7lh2li1g0562546ligk98gi74"
-    },
-    {
-      "key": "主角",
-      "name": "主角┃APP",
-      "type": 3,
-      "api": "csp_Muou",
-      "playerType": 2,
-      "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
-    },
-    {
       "key": "巧技三",
       "name": "巧技┃APP",
       "type": 3,
@@ -116,7 +84,40 @@
       "filterable": 0,
       "ext": "",
       "categories": [],
-      "editing": false
+      "editing": true,
+      "_originalData": {
+        "name": "臻彩┃APP",
+        "type": 0,
+        "api": "http://150.158.112.123/js/dr/drpy2.min.js",
+        "searchable": 0,
+        "quickSearch": 0,
+        "filterable": 0,
+        "ext": "",
+        "categories": [],
+        "editing": true,
+        "_originalData": {
+          "name": "臻彩┃APP",
+          "type": 0,
+          "api": "http://150.158.112.123/js/dr/drpy2.min.js",
+          "searchable": 0,
+          "quickSearch": 0,
+          "filterable": 0,
+          "ext": "",
+          "categories": [],
+          "editing": true,
+          "_originalData": {
+            "name": "臻彩┃APP",
+            "type": 0,
+            "api": "http://150.158.112.123/js/dr/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "",
+            "categories": [],
+            "editing": true
+          }
+        }
+      }
     }
   ],
   "lives": [
