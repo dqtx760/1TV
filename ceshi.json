@@ -119,18 +119,8 @@
       ]
     },
     {
-      "key": "2400部恐怖电影",
-      "name": "线路3：公众号「大强同学」",
-      "type": 3,
-      "api": "http://550.3vcn.work/16.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://550.3vcn.work/2400.js"
-    },
-    {
       "key": "柚子资源",
-      "name": "线路4：公众号「大强同学」",
+      "name": "线路3：公众号「大强同学」",
       "type": 0,
       "api": "https://api.yzzy-api.com/inc/api.php",
       "searchable": 1,
